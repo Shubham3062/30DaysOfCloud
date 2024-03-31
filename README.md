@@ -7,7 +7,7 @@ Cloud computing has revolutionized the way we build, deploy, and manage applicat
 
 # Tag Us on Socials:
 
- - LinkedIn: @shubhamshah30
+ - LinkedIn: [@shubhamshah30](https://www.linkedin.com/in/shubhamshah30/)
  - Twitter: @shubhamshah30
 
 Let's build a supportive and diverse community of learners!
